@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the awesome Project Repo for Data Lab Notes!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://projects.datalabnotes.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: datalabnotes
+twitter_username: margaret-schweihs
 github_username:  MKS310
 
 # Build settings
