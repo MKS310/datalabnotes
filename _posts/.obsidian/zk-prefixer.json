@@ -1,0 +1,5 @@
+{
+  "template": "_templates/New_Post",
+  "folder": "/_staging",
+  "format": "YYYY-MM-DD-s-"
+}

@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8fe5fbff1cd42ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c5ec82db89aae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ac912ab174a4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-06-Python-Time-Series-Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6379e3b3a8abfef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da142a6b9107b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c3896776b68c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9d1ef8e083ca85e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d5ebc8727b804df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fed9518d93615439",
+    "type": "split",
+    "children": [
+      {
+        "id": "6888b522878f1e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2097760af9e30d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-03-06-Python-Time-Series-Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e35113bfa6c740f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-03-06-Python-Time-Series-Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b8ab2f7b48f8c27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8ea5030fc59364e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-03-06-Python-Time-Series-Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "84c3896776b68c18",
+  "lastOpenFiles": [
+    "_staging/2023-03-06-5.md",
+    "2023-03-06-Python-Time-Series-Resources.md",
+    "_staging/2023-03-09.md",
+    "_staging/2023-03-06-28.md",
+    "_staging/2023-03-06-27.md",
+    "_staging/2023-03-06-26.md",
+    "_staging/2023-03-08.md",
+    "2023-03-06-Google-Open-Data.md",
+    "2023-03-04-Hello World!.md",
+    "_staging/2023-03-04-welcome-to-jekyll.md",
+    "_templates/New_Post.md",
+    "2023-03-04-welcome-to-jekyll.markdown",
+    "_staging",
+    "Untitled 1.md",
+    "Untitled.md",
+    "_templates"
+  ]
+}
