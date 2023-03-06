@@ -55,7 +55,7 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 600px;
   vertical-align: middle;
 }
 
@@ -209,18 +209,16 @@ pre {
  */
 
 .svg-icon {
-    width: 16px;
-    height: 16px;
+    width: 26px;
+    height: 26px;
     display: inline-block;
     fill: #{$grey-color};
-    padding-right: 5px;
+    padding-right: 10px;
     vertical-align: text-top;
 }
 
 .social-media-list {
-  li + li {
-    padding-top: 5px;
-  }
+  > li {padding: 5px;}
 }
 
 

@@ -19,17 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Data Lab Notes
-title: Data Lab Notes
 email: maggie@datalabnotes.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+author: "Maggie Conroy"
+description:  >
+  This is the Data Lab Notes Project Site where we share code and quick notes related to the blog posts found on DataLabNotes.com
+  The main topics you will find here relate to Data Science and the Internet of Things and the fun ideas that lie at the 
+  intersection of those two fields. Enjoy!!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "projects.datalabnotes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://projects.datalabnotes.com" # the base hostname & protocol for your site, e.g. http://example.com
+main_url: "https://www.datalabnotes.com"
+about_url: "https://www.datalabnotes.com/about"
+blog_url: "https://www.datalabnotes.com/blog"
+github_url: "https://github.com/MKS310/datalabnotes"
+github_discussions_url: "https://github.com/MKS310/datalabnotes/discussions"
 youtube_username: datalabnotes
 github_username:  MKS310
 linkedin_username: margaret-schweihs
+rss: RSS Feed
+permalink: /:categories/:title/
+
 
 # Build settings
 theme: minima
