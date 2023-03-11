@@ -10,14 +10,16 @@ permalink: /
 
 # Project Portfolio
 
-Hello! Welcome to my project portfolio*. Plesae enjoy scrolling through some projects ranging from school project, to my Master's Capstone. 
+Hello! Welcome to my project portfolio*. Please enjoy scrolling through some projects ranging from school project, to my Master's Capstone. 
 
 
 ### Brief Intro:
 
 If you want to know more [About Me](https://datalabnotes.com/about/), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and don't forget to say Hi!
 
-*This site was established in 2023 and is still a work in progress :) There will be more added here soon! Stay Tuned ;)
+
+*
+This site was established in 2023 and is still a work in progress :) There will be more added here soon! Stay Tuned ;)
 
 
 ## Masters Capstone Project
@@ -69,13 +71,13 @@ I downloaded a kaggle data set containing declassified U.S. military bombing ope
 I was a Data Scientist in the Engineering R&D Department of an Automotive Manufacturer for 3-years. Unfortunately, the code and work produced is all proprietary and ownded by the company. However, these links point to the high-level descriptions of the accomplishments of myself and the team I worked with! <br><br>
 <li> From the Dataiku Blog: <a href="https://www.dataiku.com/stories/detail/oshkosh/">A Traditional Organization + a Modern Data Science Practice: The Oshkosh Story</a></li>
 <br>
-<quote>
 
 ## Primary Use Cases
+<br>
 
 ### 1. Moving From Calendar-Based Intervals to Real-Time Predictive Maintenance
-
-At Oshkosh Corporation, engineering teams use Dataiku to create predictive maintenance analytics that save their customers time and money by keeping vehicles on the job and out of the shop. A great example of this is a routine oil change. Similar to a car, most heavy-duty vehicles typically use calendar-based scheduled intervals (e.g., every six months), without considering the historical operations and current oil quality. Through vehicle telematics data and condition-based maintenance (CBM) methods, oil degradation can be monitored and modeled to accurately predict a remaining useful life and prescribe appropriate actions. By triggering an oil change only when needed, customers avoid unnecessary maintenance actions that result in inflated materials costs and reduced vehicle availability. 
+<quote>
+"At Oshkosh Corporation, engineering teams use Dataiku to create predictive maintenance analytics that save their customers time and money by keeping vehicles on the job and out of the shop. A great example of this is a routine oil change. Similar to a car, most heavy-duty vehicles typically use calendar-based scheduled intervals (e.g., every six months), without considering the historical operations and current oil quality. Through vehicle telematics data and condition-based maintenance (CBM) methods, oil degradation can be monitored and modeled to accurately predict a remaining useful life and prescribe appropriate actions. By triggering an oil change only when needed, customers avoid unnecessary maintenance actions that result in inflated materials costs and reduced vehicle availability. 
 
 “You need collaboration to do data science effectively in the first place. Dataiku facilitates and enables collaboration much better than anything else I’ve seen. It used to just be technical experts and data scientists, but now analysts and management can be involved side-by-side in the process.”
 
@@ -83,18 +85,18 @@ At Oshkosh Corporation, engineering teams use Dataiku to create predictive maint
 
 The actionable insights produced through CBM analytics projects in Dataiku have shown tremendous potential to disrupt the current maintenance paradigm for vehicle fleets in many markets. Early pilot program results show a potential 2-3x improvement in required maintenance intervals, which translates to more than a 50% reduction in downtime and support costs over the life of the vehicle. If extrapolated over the fleets of similar Oshkosh vehicles in operation around the world, this could result in thousands of labor hours and millions of dollars saved for their customers.
 
-There are additional benefits to these analytical solutions, too. A clear win is the increased environmental sustainability via reduced use of hazardous materials such as oil — literally saving thousands of barrels of oil in the previous example. A more subtle benefit comes from reducing additional vehicle faults and failures that are often accidentally induced by performing maintenance actions, which would mean additional rework, time, and costs. Lastly, indicators from CBM models, operationalized through Dataiku, keep operators from running their vehicles to critical failures while in use, preventing additional incidents that could be potentially dangerous and much more costly to repair. 
+There are additional benefits to these analytical solutions, too. A clear win is the increased environmental sustainability via reduced use of hazardous materials such as oil — literally saving thousands of barrels of oil in the previous example. A more subtle benefit comes from reducing additional vehicle faults and failures that are often accidentally induced by performing maintenance actions, which would mean additional rework, time, and costs. Lastly, indicators from CBM models, operationalized through Dataiku, keep operators from running their vehicles to critical failures while in use, preventing additional incidents that could be potentially dangerous and much more costly to repair."
 </quote>
 <br>
 <br>
 <li> From the Oshkosh Corporation Website: <a href="https://oshkoshdefense.com/services/life-cycle-management/">Condition Based Maintenance (CBM) and CBM + Technology</a></li>
 <br>
 <quote>
-The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
+"The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
 
 Oshkosh has applied CBM and CBM+ methodologies to numerous defense platforms including UK WT, FMTV A1P2, PLS, and JLTV in addition to Commercial fleets including JLG® Lifts, Pierce® Fire Trucks, and McNeilus® Cement Mixers. Oshkosh is leveraging the capabilities established as a whole to advance CBM technology and predictive and prognostic applications within all Oshkosh products.
 
-Oshkosh is committed to advancing CBM and CBM+ technologies within the tactical wheeled vehicle community. Although CBM is mostly associated with vehicles, Oshkosh is also applying this capability to manufacturing equipment. As manufacturing technology continues to evolve, the importance of understanding equipment conditions becomes increasingly critical. Oshkosh has applied CBM to torque tools and programmable logic controllers to monitor critical conditions and conditions that are difficult to measure manually.
+Oshkosh is committed to advancing CBM and CBM+ technologies within the tactical wheeled vehicle community. Although CBM is mostly associated with vehicles, Oshkosh is also applying this capability to manufacturing equipment. As manufacturing technology continues to evolve, the importance of understanding equipment conditions becomes increasingly critical. Oshkosh has applied CBM to torque tools and programmable logic controllers to monitor critical conditions and conditions that are difficult to measure manually."
 </quote><br>
 
 
