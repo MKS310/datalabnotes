@@ -11,8 +11,12 @@
             "id": "92e6d226e6883216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-11-31-Digital-Twins-KM-CRISPDM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-03-11-31-Digital-Twins-KM-CRISPDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-03-11-31-Digital-Twins-KM-CRISPDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-03-11-31-Digital-Twins-KM-CRISPDM.md"
+              }
             }
           }
         ]
@@ -139,18 +147,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "92e6d226e6883216",
+  "active": "84c3896776b68c18",
   "lastOpenFiles": [
     "_staging/2023-03-06-5-Ask-ChatGPT-Portfolio-Advice.md",
-    "_staging/2023-03-06-5.md",
+    "2023-03-11-31-Digital-Twins-KM-CRISPDM.md",
+    "2023-03-04-Hello World!.md",
+    "2023-03-06-Google-Open-Data.md",
     "2023-03-06-Python-Time-Series-Resources.md",
+    "_staging/2023-03-06-5.md",
     "_staging/2023-03-09.md",
     "_staging/2023-03-06-28.md",
     "_staging/2023-03-06-27.md",
     "_staging/2023-03-06-26.md",
     "_staging/2023-03-08.md",
-    "2023-03-06-Google-Open-Data.md",
-    "2023-03-04-Hello World!.md",
     "_staging/2023-03-04-welcome-to-jekyll.md",
     "_templates/New_Post.md",
     "2023-03-04-welcome-to-jekyll.markdown",
