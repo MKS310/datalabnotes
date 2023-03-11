@@ -50,7 +50,7 @@ Schweihs, Margaret. "Methods for Analyzing a Wireless Network via Customer Mobil
 
 My family and I love playing Magic the Gathering, so I created this project for a final exam for an Unstructured Data Analysis Class during my Master's degree program. The goal was to analyze the deck structure of the tournament decks in the current "meta" (a term used to describe the current cards in popular use). I also wanted to analyze the text on the cards since MTG card narratives contain a lot of interesting Fantasy-genre descriptions.
 
-![MTG](/assets/cloud2_1.PNG "Card Color Word Cloud")
+![MTG](https://github.com/MKS310/MTG-Web-Scraping/blob/master/cloud2_1.png "Card Color Word Cloud")
 
 <br>
 <li><a href="https://github.com/MKS310/Hadoop_Project_2/blob/master/README.md">Big Data:High Performance Computing MapReduce Project</a></li><br>
@@ -89,18 +89,18 @@ I was a Data Scientist in the Engineering R&D Department of an Automotive Manufa
 – Dr. Michael Schuh, Chief Data Scientist, Oshkosh Engineering
 <br><br>
 The actionable insights produced through CBM analytics projects in Dataiku have shown tremendous potential to disrupt the current maintenance paradigm for vehicle fleets in many markets. Early pilot program results show a potential 2-3x improvement in required maintenance intervals, which translates to more than a 50% reduction in downtime and support costs over the life of the vehicle. If extrapolated over the fleets of similar Oshkosh vehicles in operation around the world, this could result in thousands of labor hours and millions of dollars saved for their customers.
-<br>
+<br><br>
 There are additional benefits to these analytical solutions, too. A clear win is the increased environmental sustainability via reduced use of hazardous materials such as oil — literally saving thousands of barrels of oil in the previous example. A more subtle benefit comes from reducing additional vehicle faults and failures that are often accidentally induced by performing maintenance actions, which would mean additional rework, time, and costs. Lastly, indicators from CBM models, operationalized through Dataiku, keep operators from running their vehicles to critical failures while in use, preventing additional incidents that could be potentially dangerous and much more costly to repair."
 
 <br>
 <br>
 <li> From the Oshkosh Corporation Website: <a href="https://oshkoshdefense.com/services/life-cycle-management/">Condition Based Maintenance (CBM) and CBM + Technology</a></li>
 <br>
-"The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
-<br>
+The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
+<br><br>
 Oshkosh has applied CBM and CBM+ methodologies to numerous defense platforms including UK WT, FMTV A1P2, PLS, and JLTV in addition to Commercial fleets including JLG® Lifts, Pierce® Fire Trucks, and McNeilus® Cement Mixers. Oshkosh is leveraging the capabilities established as a whole to advance CBM technology and predictive and prognostic applications within all Oshkosh products.
-<br>
-Oshkosh is committed to advancing CBM and CBM+ technologies within the tactical wheeled vehicle community. Although CBM is mostly associated with vehicles, Oshkosh is also applying this capability to manufacturing equipment. As manufacturing technology continues to evolve, the importance of understanding equipment conditions becomes increasingly critical. Oshkosh has applied CBM to torque tools and programmable logic controllers to monitor critical conditions and conditions that are difficult to measure manually."
+<br><br>
+Oshkosh is committed to advancing CBM and CBM+ technologies within the tactical wheeled vehicle community. Although CBM is mostly associated with vehicles, Oshkosh is also applying this capability to manufacturing equipment. As manufacturing technology continues to evolve, the importance of understanding equipment conditions becomes increasingly critical. Oshkosh has applied CBM to torque tools and programmable logic controllers to monitor critical conditions and conditions that are difficult to measure manually.
 
 
 
