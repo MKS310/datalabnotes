@@ -48,13 +48,13 @@ Schweihs, Margaret. "Methods for Analyzing a Wireless Network via Customer Mobil
 
 My family and I love playing Magic the Gathering, so I created this project for a final exam for an Unstructured Data Analysis Class during my Master's degree program. The goal was to analyze the deck structure of the tournament decks in the current "meta" (a term used to describe the current cards in popular use). I also wanted to analyze the text on the cards since MTG card narratives contain a lot of interesting Fantasy-genre descriptions.
 
-<br><br>
+<br>
 <li><a href="https://github.com/MKS310/Hadoop_Project_2/blob/master/README.md">Big Data:High Performance Computing MapReduce Project</a></li><br>
 In this project, I worked with input, output, Python and the MapReduce framework. The mappers and reducers to solve a few different problems, listed below.
 
 ### Background
 The map function is stateless and this is especially important when dealing with Hadoop and distributed work. We can’t guarantee that any 1 mapper will read in all of the data. Nor can we guarantee that certain input will end up on the same machine for mapping. Rather, 1 mapper will likely read in a small portion of the data. The output that the mapper produces must only depend on the current input value. 
-<br><br>
+<br>
 
 <li><a href="https://github.com/MKS310/Kaggle_Vietnam_Bombing/blob/master/README.md">Kaggle Vietnam Bombing Data Analysis with Pig Scripting</a></li><br>
 This project required using Pig scripts in a Hadoop environment on a large dataset. The task was to ask a 3 questions about a large dataset and answer them using the Apache Pig language.
@@ -73,18 +73,17 @@ I was a Data Scientist in the Engineering R&D Department of an Automotive Manufa
 <br>
 
 ## Primary Use Cases
-<br>
 
 ### 1. Moving From Calendar-Based Intervals to Real-Time Predictive Maintenance
 <quote>
 "At Oshkosh Corporation, engineering teams use Dataiku to create predictive maintenance analytics that save their customers time and money by keeping vehicles on the job and out of the shop. A great example of this is a routine oil change. Similar to a car, most heavy-duty vehicles typically use calendar-based scheduled intervals (e.g., every six months), without considering the historical operations and current oil quality. Through vehicle telematics data and condition-based maintenance (CBM) methods, oil degradation can be monitored and modeled to accurately predict a remaining useful life and prescribe appropriate actions. By triggering an oil change only when needed, customers avoid unnecessary maintenance actions that result in inflated materials costs and reduced vehicle availability. 
-</quote><quote>
+</quote><br><quote>
 “You need collaboration to do data science effectively in the first place. Dataiku facilitates and enables collaboration much better than anything else I’ve seen. It used to just be technical experts and data scientists, but now analysts and management can be involved side-by-side in the process.”
-</quote><quote>
+</quote><br><quote>
 – Dr. Michael Schuh, Chief Data Scientist, Oshkosh Engineering
-</quote><quote>
+</quote><br><quote>
 The actionable insights produced through CBM analytics projects in Dataiku have shown tremendous potential to disrupt the current maintenance paradigm for vehicle fleets in many markets. Early pilot program results show a potential 2-3x improvement in required maintenance intervals, which translates to more than a 50% reduction in downtime and support costs over the life of the vehicle. If extrapolated over the fleets of similar Oshkosh vehicles in operation around the world, this could result in thousands of labor hours and millions of dollars saved for their customers.
-</quote><quote>
+</quote><br><quote>
 There are additional benefits to these analytical solutions, too. A clear win is the increased environmental sustainability via reduced use of hazardous materials such as oil — literally saving thousands of barrels of oil in the previous example. A more subtle benefit comes from reducing additional vehicle faults and failures that are often accidentally induced by performing maintenance actions, which would mean additional rework, time, and costs. Lastly, indicators from CBM models, operationalized through Dataiku, keep operators from running their vehicles to critical failures while in use, preventing additional incidents that could be potentially dangerous and much more costly to repair."
 </quote>
 <br>
@@ -93,9 +92,9 @@ There are additional benefits to these analytical solutions, too. A clear win is
 <br>
 <quote>
 "The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
-</quote><quote>
+</quote><br><quote>
 Oshkosh has applied CBM and CBM+ methodologies to numerous defense platforms including UK WT, FMTV A1P2, PLS, and JLTV in addition to Commercial fleets including JLG® Lifts, Pierce® Fire Trucks, and McNeilus® Cement Mixers. Oshkosh is leveraging the capabilities established as a whole to advance CBM technology and predictive and prognostic applications within all Oshkosh products.
-</quote><quote>
+</quote><br><quote>
 Oshkosh is committed to advancing CBM and CBM+ technologies within the tactical wheeled vehicle community. Although CBM is mostly associated with vehicles, Oshkosh is also applying this capability to manufacturing equipment. As manufacturing technology continues to evolve, the importance of understanding equipment conditions becomes increasingly critical. Oshkosh has applied CBM to torque tools and programmable logic controllers to monitor critical conditions and conditions that are difficult to measure manually."
 </quote><br>
 
