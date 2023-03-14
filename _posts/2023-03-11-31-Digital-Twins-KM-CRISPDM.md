@@ -1,7 +1,7 @@
 ---
-title: "Paper Review Supporting Digital Twins for the Retrofit in Aviation by a Model-Driven Data Handling"
+title: "Paper Review: Digital Twins for Retrofit in Aviation via Model-Driven Data Handling"
 author: Maggie Conroy
-categories: digital twin
+categories: DigitalTwin
 layout: post
 ---
 
