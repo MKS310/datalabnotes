@@ -10,12 +10,18 @@ permalink: /
 
 # Project Portfolio
 
-Hello! Welcome to my project portfolio*. Please enjoy scrolling through some projects ranging from school project, to my Master's Capstone. 
+Hello! Welcome to my project portfolio*. Please enjoy scrolling through some projects ranging from school projects, to my Master's Capstone. 
 
 
 ### Brief Intro:
 
-If you want to know more [About Me](https://datalabnotes.com/about/), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and don't forget to say Hi!
+My name is Maggie Conroy. I have been working in the Information Technology field for over a decade, with much of that time spent managing data. I began at an insurance company and helped to migrate an ancient database to SQL. From there, I took a role as a lead system administrator managing HP Unix, Red Hat Linux and Windows systems in a National Guard Data Center. Meanwhile, I also served as a Signal Officer for the National Guard responsible for planning and establishing wireless communications in austere environments for Infantry and Field Artillery units.
+
+While working in the Data Center, I began working on a Master’s of Science in Data Science. During this program, I completed an internship at a telecommunications company in the Engineering department working with Radio Frequency (RF) Engineers and subject matter experts to analyze network quality and coverage.
+
+After earning my Master’s degree in Data Science, I transitioned into Data Science as one of the first members of an R&D Data Science team embedded in the Engineering Department of an automotive manufacturer. This is where I cut my teeth on the end to end pipeline of IoT data—Building pipelines, managing the data after it landed and processing/modeling the data to provide value to the customer.
+
+If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) and [my Data Science Journey](https://www.datalabnotes.com/about#MyJourney), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and don't forget to say Hi!
 
 
 *
@@ -46,39 +52,41 @@ Schweihs, Margaret. "Methods for Analyzing a Wireless Network via Customer Mobil
 
 ## Personal/School Projects
 
-<li><a href="https://github.com/MKS310/MTG-Web-Scraping/blob/master/README.md">Magic The Gathering Web Scraping and Natural Language Processing Project</a></li><br>
+### MTG Card Text Analysis
+<img src="/assets/cloud2_1.png" alt="Card Color Word Cloud" />
 
 My family and I love playing Magic the Gathering, so I created this project for a final exam for an Unstructured Data Analysis Class during my Master's degree program. The goal was to analyze the deck structure of the tournament decks in the current "meta" (a term used to describe the current cards in popular use). I also wanted to analyze the text on the cards since MTG card narratives contain a lot of interesting Fantasy-genre descriptions.
 
-<img src="https://github.com/MKS310/MTG-Web-Scraping/blob/master/cloud2_1.png" alt="Card Color Word Cloud" />
+<li><a href="https://github.com/MKS310/MTG-Web-Scraping/blob/master/README.md">Magic The Gathering Web Scraping and Natural Language Processing Project</a></li><br>
 
-<br>
-<li><a href="https://github.com/MKS310/Hadoop_Project_2/blob/master/README.md">Big Data:High Performance Computing MapReduce Project</a></li><br>
-In this project, I worked with input, output, Python and the MapReduce framework. The mappers and reducers to solve a few different problems, listed below.
+### Hadoop Map Reduce Project
 
 <img src="/assets/MapReduceProject.png" alt="Map Reduce Project" />
 
-### Background
-The map function is stateless and this is especially important when dealing with Hadoop and distributed work. We can’t guarantee that any 1 mapper will read in all of the data. Nor can we guarantee that certain input will end up on the same machine for mapping. Rather, 1 mapper will likely read in a small portion of the data. The output that the mapper produces must only depend on the current input value. 
-<br>
+In this project, I worked with input, output, Python and the MapReduce framework. 
 
-<li><a href="https://github.com/MKS310/Kaggle_Vietnam_Bombing/blob/master/README.md">Kaggle Vietnam Bombing Data Analysis with Pig Scripting</a></li><br>
+<li><a href="https://github.com/MKS310/Hadoop_Project_2/blob/master/README.md">Big Data:High Performance Computing MapReduce Project</a></li><br>
+
+
+### Vietnam Bombing Kaggle Data Analysis
+
 This project required using Pig scripts in a Hadoop environment on a large dataset. The task was to ask a 3 questions about a large dataset and answer them using the Apache Pig language.
 
-With the following analysis, I demonstrate how data-driven analysis requires domain knowledge and investigation. A Data Analysis is driven by questions and research into a topic.
-
-### Background
+With the analysis, I demonstrate how data-driven analysis requires domain knowledge and investigation. A Data Analysis is driven by questions and research into a topic.
 
 I downloaded a kaggle data set containing declassified U.S. military bombing operation data from the Vietnam War. The data was declassified in 2000 by President Clinton. I wanted to analyze accuracy of reported events using Apache Hadoop and Pig.
 
-<br><br>
+<li><a href="https://github.com/MKS310/Kaggle_Vietnam_Bombing/blob/master/README.md">Kaggle Vietnam Bombing Data Analysis with Pig Scripting</a></li><br>
+
+
 ## Corporate/Industry Projects
 
-I was a Data Scientist in the Engineering R&D Department of an Automotive Manufacturer for 3-years. Unfortunately, the code and work produced is all proprietary and ownded by the company. However, these links point to the high-level descriptions of the accomplishments of myself and the team I worked with! <br><br>
+I was a Data Scientist in the Engineering R&D Department of an Automotive Manufacturer for 3-years. Unfortunately, the code and work produced is all proprietary and ownded by the company. However, these links point to the high-level descriptions of the accomplishments of myself and the team I worked with! 
+
 <li> From the Dataiku Blog: <a href="https://www.dataiku.com/stories/detail/oshkosh/">A Traditional Organization + a Modern Data Science Practice: The Oshkosh Story</a></li>
 <br>
 
-## Primary Use Cases
+## From the Blog Post about our work
 
 ### 1. Moving From Calendar-Based Intervals to Real-Time Predictive Maintenance
 
@@ -92,9 +100,9 @@ The actionable insights produced through CBM analytics projects in Dataiku have 
 <br><br>
 There are additional benefits to these analytical solutions, too. A clear win is the increased environmental sustainability via reduced use of hazardous materials such as oil — literally saving thousands of barrels of oil in the previous example. A more subtle benefit comes from reducing additional vehicle faults and failures that are often accidentally induced by performing maintenance actions, which would mean additional rework, time, and costs. Lastly, indicators from CBM models, operationalized through Dataiku, keep operators from running their vehicles to critical failures while in use, preventing additional incidents that could be potentially dangerous and much more costly to repair."
 
-<br>
-<br>
-<li> From the Oshkosh Corporation Website: <a href="https://oshkoshdefense.com/services/life-cycle-management/">Condition Based Maintenance (CBM) and CBM + Technology</a></li>
+
+## From the Oshkosh Corporation Website: 
+<li> <a href="https://oshkoshdefense.com/services/life-cycle-management/">Condition Based Maintenance (CBM) and CBM + Technology</a></li>
 <br>
 The concept for Condition Based Maintenance is to continuously assess actual vehicle condition through sensors, observations, and portable devices to provide evidence maintenance is needed. While CBM establishes the ability to measure vehicle conditions, CBM+ provides recommendations for optimizing maintenance schedules and strategies with the overall goal of reduced life cycle costs and improved readiness.
 <br><br>
