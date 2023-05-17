@@ -10,27 +10,29 @@ permalink: /
 
 # Project Portfolio
 
-Hello! Welcome to my project portfolio*. Please enjoy scrolling through some projects ranging from school projects, to my Master's Capstone. 
+Hello! Welcome to my project portfolio*. Below are some projects ranging from my Master's degree capstone to some information about work I did in Industry.
+
+- [Masters Capstone Project](#masters-capstone-project): Working with Telecommunications Network Data and geospatial IoT data
+- [Magic The Gathering Project](#mtg-card-text-analysis): Web-scraping a dataset and doing a Natural Language Processing analysis
+- [Hadoop Map Reduce](#hadoop-map-reduce-project): Developing python map reduce scripts to solve classic computer science problems in AWS 
+- [Distributed Queries on Hadoop](#vietnam-bombing-kaggle-data-analysis): Using the PIG scripting language to answer questions about a Kaggle dataset
+- [Blog Post about CBM Work in Automotive Industry](#from-the-blog-post-about-our-work): Solving Predictive Maintenance and Condition Based Maintenance problems for an automotive manufacturer
 
 
 ### Brief Intro:
 
-My name is Maggie Conroy. I have been working in the Information Technology field for over a decade, with much of that time spent managing data. I began at an insurance company and helped to migrate an ancient database to SQL. From there, I took a role as a lead system administrator managing HP Unix, Red Hat Linux and Windows systems in a National Guard Data Center. Meanwhile, I also served as a Signal Officer for the National Guard responsible for planning and establishing wireless communications in austere environments for Infantry and Field Artillery units.
+My name is Maggie Conroy. I have been working in the Information Technology field for over a decade, with much of that time spent managing data. I began at an insurance company and helped to migrate a FoxPro database to SQL. From there, I took a role as a lead system administrator managing HP Unix, Red Hat Linux and Windows systems in a National Guard Data Center.
 
 While working in the Data Center, I began working on a Master’s of Science in Data Science. During this program, I completed an internship at a telecommunications company in the Engineering department working with Radio Frequency (RF) Engineers and subject matter experts to analyze network quality and coverage.
 
 After earning my Master’s degree in Data Science, I transitioned into Data Science as one of the first members of an R&D Data Science team embedded in the Engineering Department of an automotive manufacturer. This is where I cut my teeth on the end to end pipeline of IoT data—Building pipelines, managing the data after it landed and processing/modeling the data to provide value to the customer.
 
-If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) and [my Data Science Journey](https://www.datalabnotes.com/about#MyJourney), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and don't forget to say Hi!
-
-
-*
-This site was established in 2023 and is still a work in progress :) There will be more added here soon! Stay Tuned ;)
+If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) and [my Data Science Journey](https://www.datalabnotes.com/about#MyJourney), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and say Hi!
 
 
 ## Masters Capstone Project
 
-For my Master’s Degree capstone project, We developed use cases for a novel dataset and developed a dashboard for the most value-added use case: Provide Radio Frequency Engineers with a map estimating cell signal quality, traffic volume, and coverage by location to be used to assess network issues and future site locations.
+For my Master’s Degree capstone project, I developed use cases for a novel dataset and developed a dashboard for the most value-added use case: Provide Radio Frequency Engineers with a map estimating cell signal quality, traffic volume, and coverage by location to be used to assess network issues and future site locations.
 
 Google provided telcos with a dataset using cell quality metrics gathered via Location Services on Android phones. This dataset provided a view into network quality at a granular level that telcos couldn’t get otherwise due to FCC regulations.
 
