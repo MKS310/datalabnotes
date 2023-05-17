@@ -27,7 +27,7 @@ While working in the Data Center, I began working on a Master’s of Science in 
 
 After earning my Master’s degree in Data Science, I transitioned into Data Science as one of the first members of an R&D Data Science team embedded in the Engineering Department of an automotive manufacturer. This is where I cut my teeth on the end to end pipeline of IoT data—Building pipelines, managing the data after it landed and processing/modeling the data to provide value to the customer.
 
-If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) and [my Data Science Journey](https://www.datalabnotes.com/about#MyJourney), please head over to the main site, or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and say Hi!
+If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) and [my Data Science Journey](https://www.datalabnotes.com/about#MyJourney), feel free to [check out my blog](https://www.datalabnotes.com), or see my [LinkedIn Profile](https://www.linkedin.com/in/margaret-schweihs/) and say Hi!
 
 
 ## Masters Capstone Project
