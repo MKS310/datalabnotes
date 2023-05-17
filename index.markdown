@@ -78,14 +78,14 @@ This project required using Pig scripts in a Hadoop environment on a large datas
 
 With the analysis, I demonstrate how data-driven analysis requires domain knowledge and investigation. A Data Analysis is driven by questions and research into a topic.
 
-I downloaded a kaggle data set containing declassified U.S. military bombing operation data from the Vietnam War. The data was declassified in 2000 by President Clinton. I wanted to analyze accuracy of reported events using Apache Hadoop and Pig.
+I downloaded a kaggle data set containing declassified U.S. military bombing operation data from the Vietnam War. The data was declassified in 2000 by President Clinton. I wanted to compare the data that was reported in the media to the data in the dataset using Apache Hadoop and Pig.
 
 <li><a href="https://github.com/MKS310/Kaggle_Vietnam_Bombing/blob/master/README.md">Kaggle Vietnam Bombing Data Analysis with Pig Scripting</a></li><br>
 
 
 ## Corporate/Industry Projects
 
-I was a Data Scientist in the Engineering R&D Department of an Automotive Manufacturer for 3-years. Unfortunately, the code and work produced is all proprietary and ownded by the company. However, these links point to the high-level descriptions of the accomplishments of myself and the team I worked with! 
+I was a Data Scientist in the Engineering R&D Department of an Automotive Manufacturer for 3-years. Unfortunately, the code and work produced is all proprietary intellectual property owned by the company. However, these links point to the high-level descriptions of the accomplishments of myself and the team I worked with! 
 
 <li> From the Dataiku Blog: <a href="https://www.dataiku.com/stories/detail/oshkosh/">A Traditional Organization + a Modern Data Science Practice: The Oshkosh Story</a></li>
 <br>
