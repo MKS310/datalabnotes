@@ -32,15 +32,15 @@ If you want to know more [About Me](https://www.datalabnotes.com/about#AboutMe) 
 
 ## Masters Capstone Project
 
-For my Master’s Degree capstone project, I developed use cases for a novel dataset and developed a dashboard for the most value-added use case: Provide Radio Frequency Engineers with a map estimating cell signal quality, traffic volume, and coverage by location to be used to assess network issues and future site locations.
+For my Master’s Degree capstone project, I developed use cases for a novel dataset and developed a dashboard for the most value-added use case: Providing Radio Frequency Engineers with a map estimating cell signal quality, network traffic volume, and service coverage by on a map to be used to assess network issues and future small-cell (5G) tower locations.
 
 Google provided telcos with a dataset using cell quality metrics gathered via Location Services on Android phones. This dataset provided a view into network quality at a granular level that telcos couldn’t get otherwise due to FCC regulations.
 
-We used K-means clustering and Hierarchical Clustering to estimate clusters of data based on quality and labeled them “Good” to “Poor”. We visualized this information on an R Shiny Dashboard using Leaflet for mapping.
+I used K-means clustering and Hierarchical Clustering to estimate clusters of data based on quality and labeled them “Good” to “Poor”. Then, I visualized this information on an interactive R Shiny Dashboard using Leaflet for mapping.
 
 <img src="/assets/shiny_SCRUBBED_3.PNG" alt="RShinyMap" />
 
-The Proof of Concept showed that the dataset could be used to identify areas of poor cell coverage in high-traffic areas. These were potential candidates for 5G small cell sites.
+The Proof of Concept showed that the dataset could be used to identify areas of poor cell coverage in high-traffic areas. These maps could be used by engineers to investigate network coverage issues more precicely. They also provided an additional data point for planning future network upgrades.
 
 ### Files
 
@@ -58,6 +58,8 @@ Schweihs, Margaret. "Methods for Analyzing a Wireless Network via Customer Mobil
 <img src="/assets/cloud2_1.png" alt="Card Color Word Cloud" />
 
 My family and I love playing Magic the Gathering, so I created this project for a final exam for an Unstructured Data Analysis Class during my Master's degree program. The goal was to analyze the deck structure of the tournament decks in the current "meta" (a term used to describe the current cards in popular use). I also wanted to analyze the text on the cards since MTG card narratives contain a lot of interesting Fantasy-genre descriptions.
+
+The project required scraping and structuring my own dataset from popular websites. I processed the raw data into a JSON format and enriched it using the official Magic the Gathering API. Then I applied NLP to the text on the cards and did some exploratory data analysis of the card and deck metadata. 
 
 <li><a href="https://github.com/MKS310/MTG-Web-Scraping/blob/master/README.md">Magic The Gathering Web Scraping and Natural Language Processing Project</a></li><br>
 
